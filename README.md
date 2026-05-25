@@ -31,7 +31,7 @@ FONTE DE DADOS:
 COMO EXECUTAR:
   1. É necessário ter Python instalado.
   2. Faça o clone do repositório ou baixe os arquivos para o seu computador.
-  3. Abra o terminal na raiz da pasta do projeto e execute o comando:
+  3. Abra o terminal na raiz da pasta do projeto e execute o comando
 
     Bash
     python main.py
